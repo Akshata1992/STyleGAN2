@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/rky0930/workspace/yolo//local_run/classfication/darknet_19/train/model.ckpt"
+all_model_checkpoint_paths: "/home/rky0930/workspace/yolo//local_run/classfication/darknet_19/train/model.ckpt"
